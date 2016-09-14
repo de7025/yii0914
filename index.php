@@ -6,7 +6,7 @@ include(ROOT_PATH . '/eccore/ecmall.php');
 /* 定义配置信息 */
 ecm_define(ROOT_PATH . '/data/config.inc.php');
 
-/* 启动DUISUI */
+/* 启动DUISUI   新的  */    
 DUISUI::startup(array(
     'default_app'   =>  'default',
     'default_act'   =>  'index',
